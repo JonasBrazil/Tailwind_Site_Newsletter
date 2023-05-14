@@ -15,5 +15,5 @@
 ## Mobile
 ![image](https://user-images.githubusercontent.com/76708357/162736513-dc021074-a2e5-4a19-8715-23b8706a5638.png)
 
-URL:
+URL:https://tailwind-site-newsletter-1bgj.vercel.app/
 
